@@ -1,12 +1,12 @@
 /* Pixel ratio of 2. Background-size is 1/2 = 50% (of a 200px image) */
 @media only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
   span.apico-color {
-    background-image: url("/static/img/ap_icons_color_2x_social.png");
+    background-image: url("/images/ap_icons_color_2x_social.png");
   }
 }
 
 span.apico-color {
-  background-image: url("/static/img/ap_icons_color_social.png");
+  background-image: url("/images/ap_icons_color_social.png");
 }
 
 .apico-color {
